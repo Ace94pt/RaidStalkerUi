@@ -1,0 +1,14 @@
+## Interface: 30100
+## Title: SmartTrack
+## Author: Myw
+## Version: 1.1
+## Notes: Smart Automatic Change of Aspect for the Hunter Talent Improved Tracking
+## SavedVariables: SmartTrackDB
+## X-Embeds: Ace3
+## X-Category: Hunter
+## OptionalDeps: Ace3
+## DefaultState: Enabled
+## LoadOnDemand: 0
+embeds.xml
+Locales.xml
+SmartTrack.lua
